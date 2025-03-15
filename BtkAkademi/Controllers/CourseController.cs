@@ -6,7 +6,8 @@ namespace BtkAkademi.Controllers
     {
        public IActionResult Index()
        {
-          return View();
+         var model=Repository.Applications;
+          return View(model);
        }
        public IActionResult Apply()//sunucudan bilği talep eden action
        {
@@ -15,8 +16,19 @@ namespace BtkAkademi.Controllers
        [HttpPost]
        [ValidateAntiForgeryToken]
        public IActionResult Apply([FromForm]Candidate model)//overroding metot aşırı yüklenme
-       {
-          return View();
+       { 
+         if(Repository.Applications.Any(c=>c.Email.Equals(model.Email)))
+         {
+            ModelState.AddModelError("","They is already an application for you");
+         }
+         if(ModelState.IsValid)
+         {
+            Repository.Add(model);
+          //return RedirectToAction("Index");
+          //return Redirect("/");
+          return View("Feedback",model);
+         }
+         return View();
        }
 
 
