@@ -8,7 +8,7 @@ builder.Services.AddControllersWithViews();//bu bir serves sağlayıcısıdır b
 builder.Services.AddDbContext<RepositoryContext>(options=>
 {
   options.UseSqlite(builder.Configuration.GetConnectionString("sqlconnection"));
-});
+}); //producter servis sağlayıcı newlenmesini sağladık
 
 var app = builder.Build();
 
