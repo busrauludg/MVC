@@ -1,25 +1,24 @@
-@model List<StoreApp.Models.Product>
+@* @{
+    Layout="_Layout";
+} *@
+@model List<Product>
 
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-
-<body>
-    @foreach(StoreApp.Models.Product prd in Model)
-    {
-        <div>
+@section Footer {
+    <div>
+        Only for Index footer
+    </div>
+}@*burda isteğe bağlı bir bölumun gözükmesi demi ama tüm footer olanlarda değil tek bunda *@
+<div class="row my-3">
+@foreach (Product prd in Model)
+{
+        <partial name="_ProductCard" model="@prd" />
+    @* <div>
             <h3>@prd.ProductName</h3>
             <p>@prd.Price</p>
             <p>
                 <a href="/Product/Get/@prd.ProductId">Get Detail</a>
             </p>
-        </div>
-    }
-</body>
+        </div> *@
 
-</html>
+}
+</div>

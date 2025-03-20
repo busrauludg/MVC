@@ -12,6 +12,7 @@ builder.Services.AddDbContext<RepositoryContext>(options=>
 
 var app = builder.Build();
 
+app.UseStaticFiles();//static dosyalarda kullanılar
 app.UseHttpsRedirection();//https ekleriz
 
 app.UseRouting();//yönlendirme işlemi yapar
