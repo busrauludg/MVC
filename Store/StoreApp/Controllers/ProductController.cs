@@ -1,6 +1,9 @@
+using Entities.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using StoreApp.Models;
+using Repositories;
+using Repositories.Contracts;
+
 
 namespace StoreApp.Controllers
 {
@@ -27,11 +30,11 @@ namespace StoreApp.Controllers
 
 
 /************Burdan devam et***************/
-        private readonly RepositoryContext _contex;//parap fiel tanımı
+        private readonly IRepositoryManager _manager;//parap fiel tanımı
 
-        public ProductController(RepositoryContext contex)
+        public ProductController(IRepositoryManager manager)
         {
-            _contex = contex; //burası gibi
+            _manager = manager; //burası gibi
         }
         //yapıcı metot sayesinde RepositoryContext enjekte edilmesini sağladım
 
@@ -39,13 +42,14 @@ namespace StoreApp.Controllers
 
         public IActionResult Index()//product erişim sağlanır
         {
-            var model= _contex.Products.ToList();
+            var model=_manager.Product.GetAllProducts(false);
             return View(model);
         }
         public IActionResult Get(int id)
         {
-            Product product=_contex.Products.First(p=>p.ProductId.Equals(id));
-            return View(product);
+            // Product product=_contex.Products.First(p=>p.ProductId.Equals(id));
+            var model=_manager.Product.GetOneProduct(id,false);//interfave te olmadığı için göremiyorum
+           return View(model);
         }
     }
 

@@ -125,3 +125,7 @@ C:\Users\Büşra\Documents\GitHub\MVC\Store\StoreApp\obj\Debug\net8.0\StoreApp.g
 C:\Users\Büşra\Documents\GitHub\MVC\Store\StoreApp\obj\Debug\net8.0\ref\StoreApp.dll
 C:\Users\Büşra\Documents\GitHub\MVC\Store\StoreApp\bin\Debug\net8.0\StoreApp.staticwebassets.runtime.json
 C:\Users\Büşra\Documents\GitHub\MVC\Store\StoreApp\bin\Debug\net8.0\libman.json
+C:\Users\Büşra\Documents\GitHub\MVC\Store\StoreApp\bin\Debug\net8.0\Entities.dll
+C:\Users\Büşra\Documents\GitHub\MVC\Store\StoreApp\bin\Debug\net8.0\Entities.pdb
+C:\Users\Büşra\Documents\GitHub\MVC\Store\StoreApp\bin\Debug\net8.0\Repositories.dll
+C:\Users\Büşra\Documents\GitHub\MVC\Store\StoreApp\bin\Debug\net8.0\Repositories.pdb
