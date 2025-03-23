@@ -129,3 +129,5 @@ C:\Users\Büşra\Documents\GitHub\MVC\Store\StoreApp\bin\Debug\net8.0\Entities.d
 C:\Users\Büşra\Documents\GitHub\MVC\Store\StoreApp\bin\Debug\net8.0\Entities.pdb
 C:\Users\Büşra\Documents\GitHub\MVC\Store\StoreApp\bin\Debug\net8.0\Repositories.dll
 C:\Users\Büşra\Documents\GitHub\MVC\Store\StoreApp\bin\Debug\net8.0\Repositories.pdb
+C:\Users\Büşra\Documents\GitHub\MVC\Store\StoreApp\bin\Debug\net8.0\Services.dll
+C:\Users\Büşra\Documents\GitHub\MVC\Store\StoreApp\bin\Debug\net8.0\Services.pdb
