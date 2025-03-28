@@ -2,23 +2,37 @@
     Layout="_Layout";
 } *@
 @model IQueryable<Product>
+<div class="row">
+    <div class="col-md-3">
+        @await Component.InvokeAsync("CategoriesMenu")
+    </div>
+    <div class="col-md-9">
+        <div class="row my-3">
+            @foreach (Product prd in Model)
+            {
+                <partial name="_ProductCard" model="@prd" />
+               
+            }
+        </div>
+    </div>
 
 @section Footer {
-    <div>
-        Only for Index footer
-    </div>
-}@*burda isteğe bağlı bir bölumun gözükmesi demi ama tüm footer olanlarda değil tek bunda *@
-<div class="row my-3">
-@foreach (Product prd in Model)
-{
-        <partial name="_ProductCard" model="@prd" />
-    @* <div>
+        <div>
+            Only for Index footer
+        </div>
+}
+@*burda isteğe bağlı bir bölumun gözükmesi demi ama tüm footer olanlarda değil tek bunda *@
+    @* <div class="row my-3">
+        @foreach (Product prd in Model)
+        {
+            <partial name="_ProductCard" model="@prd" />
+            @* <div>
             <h3>@prd.ProductName</h3>
             <p>@prd.Price</p>
             <p>
                 <a href="/Product/Get/@prd.ProductId">Get Detail</a>
             </p>
-        </div> *@
+        </div> 
 
-}
-</div>
+        }
+    </div> *@
