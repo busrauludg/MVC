@@ -1220,11 +1220,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Büşra\\Documents\\GitHub\\MVC\\Store\\Services\\Services.csproj",
+      "projectUniqueName": "c:\\Users\\Büşra\\Documents\\GitHub\\MVC\\Store\\Services\\Services.csproj",
       "projectName": "Services",
-      "projectPath": "C:\\Users\\Büşra\\Documents\\GitHub\\MVC\\Store\\Services\\Services.csproj",
+      "projectPath": "c:\\Users\\Büşra\\Documents\\GitHub\\MVC\\Store\\Services\\Services.csproj",
       "packagesPath": "C:\\Users\\Büşra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Büşra\\Documents\\GitHub\\MVC\\Store\\Services\\obj\\",
+      "outputPath": "c:\\Users\\Büşra\\Documents\\GitHub\\MVC\\Store\\Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Büşra\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1245,8 +1245,8 @@
             "C:\\Users\\Büşra\\Documents\\GitHub\\MVC\\Store\\Entities\\Entities.csproj": {
               "projectPath": "C:\\Users\\Büşra\\Documents\\GitHub\\MVC\\Store\\Entities\\Entities.csproj"
             },
-            "C:\\Users\\Büşra\\Documents\\GitHub\\MVC\\Store\\Repositories\\Repositories.csproj": {
-              "projectPath": "C:\\Users\\Büşra\\Documents\\GitHub\\MVC\\Store\\Repositories\\Repositories.csproj"
+            "c:\\Users\\Büşra\\Documents\\GitHub\\MVC\\Store\\Repositories\\Repositories.csproj": {
+              "projectPath": "c:\\Users\\Büşra\\Documents\\GitHub\\MVC\\Store\\Repositories\\Repositories.csproj"
             }
           }
         }

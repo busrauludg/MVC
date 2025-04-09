@@ -1201,11 +1201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Büşra\\Documents\\GitHub\\MVC\\Store\\Repositories\\Repositories.csproj",
+      "projectUniqueName": "c:\\Users\\Büşra\\Documents\\GitHub\\MVC\\Store\\Repositories\\Repositories.csproj",
       "projectName": "Repositories",
-      "projectPath": "C:\\Users\\Büşra\\Documents\\GitHub\\MVC\\Store\\Repositories\\Repositories.csproj",
+      "projectPath": "c:\\Users\\Büşra\\Documents\\GitHub\\MVC\\Store\\Repositories\\Repositories.csproj",
       "packagesPath": "C:\\Users\\Büşra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Büşra\\Documents\\GitHub\\MVC\\Store\\Repositories\\obj\\",
+      "outputPath": "c:\\Users\\Büşra\\Documents\\GitHub\\MVC\\Store\\Repositories\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Büşra\\AppData\\Roaming\\NuGet\\NuGet.Config",
