@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QyI24d4rc3U=",
+  "dgSpecHash": "I0RW9QFMz2g=",
   "success": true,
-  "projectFilePath": "c:\\Users\\Büşra\\Documents\\GitHub\\MVC\\Store\\Services\\Services.csproj",
+  "projectFilePath": "C:\\Users\\Büşra\\Documents\\GitHub\\MVC\\Store\\Services\\Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Büşra\\.nuget\\packages\\microsoft.data.sqlite.core\\8.0.0\\microsoft.data.sqlite.core.8.0.0.nupkg.sha512",
     "C:\\Users\\Büşra\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.0\\microsoft.entityframeworkcore.8.0.0.nupkg.sha512",
