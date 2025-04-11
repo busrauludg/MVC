@@ -4,7 +4,7 @@ using Repositories.Contracts;
 
 namespace Repositories
 {
-    public abstract class RepositoryBase<T>:IRepositoryBase<T>
+    public abstract class RepositoryBase<T> : IRepositoryBase<T>
     where T:class,new()//kısıtlayıcılardır
     {
         protected readonly RepositoryContext _context;//devraldığım classlardada kullanmak için procted yaptım
@@ -12,6 +12,12 @@ namespace Repositories
         {
             _context=context;
         }
+
+        public void Create(T entity)//create işlemini buraya yansıttık implementasyon yaptık 
+        {
+            _context.Set<T>().Add(entity);
+        }
+
         public IQueryable<T>FindAll(bool trackChanges)
         {
             return trackChanges
