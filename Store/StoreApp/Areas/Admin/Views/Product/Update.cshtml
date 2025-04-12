@@ -1,10 +1,14 @@
-@model Product
+﻿@model Product
+
 <div class="text-center">
     <div class="display-6">Create</div>
 </div>
 <h6>burda veri işlicez</h6>
-<form method="post"asp-action="Create">
+
+<form method="post"asp-action="Update">
+
     <div class="text-danger" asp-validation-summary="All"></div>
+    <input type="hidden" asp-for="ProductId"/>@* //id götürülmazse yeni bir ürün güncelleme degil yeni bir ürün ekleme zannedir *@
     <div class="form-group my-3">
         <label asp-for="ProductName"></label>
         <input asp-for="ProductName" class="form-control">
@@ -17,7 +21,7 @@
         <div class="btn-group">
         <button class="btn btn-primary" type="submit">
             <i class="fa fa-save"></i>
-            Save
+            Update
         </button>
         <a asp-action="Index" class="btn btn-outline-primary">
             <i class="fa fa-list"></i>
