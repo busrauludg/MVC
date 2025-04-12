@@ -32,6 +32,11 @@ namespace Repositories
                 :_context.Set<T>().Where(expression).AsNoTracking().SingleOrDefault();//değişiklikleri kaydetme
                 //implomente edilmiş hali
         }
+
+        public void Remove(T entity)
+        {
+           _context.Set<T>().Remove(entity);
+        }
     }//temel sınıflar newlenmicek abstract metotlar
 
     
