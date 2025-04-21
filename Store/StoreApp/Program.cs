@@ -36,6 +36,9 @@ app.UseHttpsRedirection();//https ekleriz
 
 app.UseRouting();//yönlendirme işlemi yapar
 
+app.UseStaticFiles();//resim yapmak için(işe yaramadı)
+
+
 app.UseEndpoints(endpoints =>
 {
 

@@ -32,6 +32,8 @@ namespace StoreApp.Migrations
                     ProductId = table.Column<int>(type: "INTEGER", nullable: false)
                         .Annotation("Sqlite:Autoincrement", true),
                     ProductName = table.Column<string>(type: "TEXT", nullable: false),
+                    Summary = table.Column<string>(type: "TEXT", nullable: true),
+                    ImageUrl = table.Column<string>(type: "TEXT", nullable: true),
                     Price = table.Column<decimal>(type: "TEXT", nullable: false),
                     CategoryId = table.Column<int>(type: "INTEGER", nullable: true)
                 },
@@ -56,16 +58,16 @@ namespace StoreApp.Migrations
 
             migrationBuilder.InsertData(
                 table: "Products",
-                columns: new[] { "ProductId", "CategoryId", "Price", "ProductName" },
+                columns: new[] { "ProductId", "CategoryId", "ImageUrl", "Price", "ProductName", "Summary" },
                 values: new object[,]
                 {
-                    { 1, 2, 17000m, "Computer" },
-                    { 2, 2, 100m, "Keyboard" },
-                    { 3, 2, 500m, "Mouse" },
-                    { 4, 2, 7000m, "Monitor" },
-                    { 5, 2, 1500m, "Deck" },
-                    { 6, 1, 250m, "History" },
-                    { 7, 1, 500m, "Hamlet" }
+                    { 1, 2, "/images/1.jpg", 17000m, "Computer", "" },
+                    { 2, 2, "/images/2.jpg", 100m, "Keyboard", "" },
+                    { 3, 2, "/images/3.jpg", 500m, "Mouse", "" },
+                    { 4, 2, "/images/4.jpg", 7000m, "Monitor", "" },
+                    { 5, 2, "/images/5.jpg", 1500m, "Deck", "" },
+                    { 6, 1, "/images/6.jpg", 250m, "History", "" },
+                    { 7, 1, "/images/7.jpg", 500m, "Hamlet", "" }
                 });
 
             migrationBuilder.CreateIndex(
