@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Jrp0BEruvK29JYc5GCfnktrRSKndaPjMDPwgsjVT4jE=",
+  "Hash": "yuKqWhXPjgL0O4fjuvpkealyW+xRRK3iQ9T3AUhsQig=",
   "Source": "StoreApp",
   "BasePath": "_content/StoreApp",
   "Mode": "Default",
@@ -169,12 +169,12 @@
       "OriginalItemSpec": "wwwroot\\images\\6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Büşra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\wwwroot\\images\\cats.jpg.jpeg",
+      "Identity": "C:\\Users\\Büşra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\wwwroot\\images\\7.jpg",
       "SourceId": "StoreApp",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Büşra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\wwwroot\\",
       "BasePath": "_content/StoreApp",
-      "RelativePath": "images/cats.jpg.jpeg",
+      "RelativePath": "images/7.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -185,7 +185,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\cats.jpg.jpeg"
+      "OriginalItemSpec": "wwwroot\\images\\7.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Büşra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\wwwroot\\images\\8.jpg",
+      "SourceId": "StoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Büşra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\wwwroot\\",
+      "BasePath": "_content/StoreApp",
+      "RelativePath": "images/8.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\8.jpg"
     },
     {
       "Identity": "C:\\Users\\Büşra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\wwwroot\\js\\site.js",

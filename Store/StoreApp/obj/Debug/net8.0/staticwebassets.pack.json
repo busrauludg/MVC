@@ -33,8 +33,12 @@
       "PackagePath": "staticwebassets\\images\\6.jpg"
     },
     {
-      "Id": "C:\\Users\\Büşra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\wwwroot\\images\\cats.jpg.jpeg",
-      "PackagePath": "staticwebassets\\images\\cats.jpg.jpeg"
+      "Id": "C:\\Users\\Büşra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\wwwroot\\images\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Büşra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\wwwroot\\images\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\8.jpg"
     },
     {
       "Id": "C:\\Users\\Büşra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\wwwroot\\js\\site.js",

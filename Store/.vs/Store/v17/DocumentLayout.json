@@ -3,40 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{89BEA955-F382-418E-B097-FC2932BA2813}|StoreApp\\StoreApp.csproj|c:\\users\\b\u00FC\u015Fra\\documents\\github\\mvc\\store\\storeapp\\migrations\\repositorycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89BEA955-F382-418E-B097-FC2932BA2813}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\migrations\\repositorycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52F14D9F-D7DF-4D94-B2F1-B134E8508986}|Repositories\\Repositories.csproj|c:\\users\\b\u00FC\u015Fra\\documents\\github\\mvc\\store\\repositories\\config\\productconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52F14D9F-D7DF-4D94-B2F1-B134E8508986}|Repositories\\Repositories.csproj|solutionrelative:repositories\\config\\productconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52F14D9F-D7DF-4D94-B2F1-B134E8508986}|Repositories\\Repositories.csproj|c:\\users\\b\u00FC\u015Fra\\documents\\github\\mvc\\store\\repositories\\repositorymanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52F14D9F-D7DF-4D94-B2F1-B134E8508986}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositorymanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{52F14D9F-D7DF-4D94-B2F1-B134E8508986}|Repositories\\Repositories.csproj|c:\\users\\b\u00FC\u015Fra\\documents\\github\\mvc\\store\\repositories\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{52F14D9F-D7DF-4D94-B2F1-B134E8508986}|Repositories\\Repositories.csproj|solutionrelative:repositories\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89BEA955-F382-418E-B097-FC2932BA2813}|StoreApp\\StoreApp.csproj|c:\\users\\b\u00FC\u015Fra\\documents\\github\\mvc\\store\\storeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89BEA955-F382-418E-B097-FC2932BA2813}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89BEA955-F382-418E-B097-FC2932BA2813}|StoreApp\\StoreApp.csproj|c:\\users\\b\u00FC\u015Fra\\documents\\github\\mvc\\store\\storeapp\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89BEA955-F382-418E-B097-FC2932BA2813}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89BEA955-F382-418E-B097-FC2932BA2813}|StoreApp\\StoreApp.csproj|c:\\users\\b\u00FC\u015Fra\\documents\\github\\mvc\\store\\storeapp\\views\\product\\_productcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{89BEA955-F382-418E-B097-FC2932BA2813}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\views\\product\\_productcard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89BEA955-F382-418E-B097-FC2932BA2813}|StoreApp\\StoreApp.csproj|c:\\users\\b\u00FC\u015Fra\\documents\\github\\mvc\\store\\storeapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{89BEA955-F382-418E-B097-FC2932BA2813}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{89BEA955-F382-418E-B097-FC2932BA2813}|StoreApp\\StoreApp.csproj|c:\\users\\b\u00FC\u015Fra\\documents\\github\\mvc\\store\\storeapp\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{89BEA955-F382-418E-B097-FC2932BA2813}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{89BEA955-F382-418E-B097-FC2932BA2813}|StoreApp\\StoreApp.csproj|c:\\users\\b\u00FC\u015Fra\\documents\\github\\mvc\\store\\storeapp\\views\\product\\get.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89BEA955-F382-418E-B097-FC2932BA2813}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\views\\product\\get.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,112 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RepositoryContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\Migrations\\RepositoryContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "StoreApp\\Migrations\\RepositoryContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\Migrations\\RepositoryContextModelSnapshot.cs",
-              "RelativeToolTip": "StoreApp\\Migrations\\RepositoryContextModelSnapshot.cs",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-21T09:06:05.034Z",
+              "Title": "Get.cshtml",
+              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\Views\\Product\\Get.cshtml",
+              "RelativeDocumentMoniker": "StoreApp\\Views\\Product\\Get.cshtml",
+              "ToolTip": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\Views\\Product\\Get.cshtml",
+              "RelativeToolTip": "StoreApp\\Views\\Product\\Get.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-21T10:35:10.777Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductConfig.cs",
-              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\Repositories\\Config\\ProductConfig.cs",
-              "RelativeDocumentMoniker": "Repositories\\Config\\ProductConfig.cs",
-              "ToolTip": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\Repositories\\Config\\ProductConfig.cs",
-              "RelativeToolTip": "Repositories\\Config\\ProductConfig.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T15:28:10.213Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RepositoryManger.cs",
-              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\Repositories\\RepositoryManger.cs",
-              "RelativeDocumentMoniker": "Repositories\\RepositoryManger.cs",
-              "ToolTip": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\Repositories\\RepositoryManger.cs",
-              "RelativeToolTip": "Repositories\\RepositoryManger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T15:27:28.176Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RepositoryContext.cs",
-              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\Repositories\\RepositoryContext.cs",
-              "RelativeDocumentMoniker": "Repositories\\RepositoryContext.cs",
-              "ToolTip": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\Repositories\\RepositoryContext.cs",
-              "RelativeToolTip": "Repositories\\RepositoryContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T15:27:26.309Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\Program.cs",
-              "RelativeDocumentMoniker": "StoreApp\\Program.cs",
-              "ToolTip": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\Program.cs",
-              "RelativeToolTip": "StoreApp\\Program.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAABkAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T15:19:46.816Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "StoreApp\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "StoreApp\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-19T09:54:50.645Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_ProductCard.cshtml",
-              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\Views\\Product\\_ProductCard.cshtml",
-              "RelativeDocumentMoniker": "StoreApp\\Views\\Product\\_ProductCard.cshtml",
-              "ToolTip": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\Views\\Product\\_ProductCard.cshtml",
-              "RelativeToolTip": "StoreApp\\Views\\Product\\_ProductCard.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-19T08:36:30.808Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "StoreApp\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "StoreApp\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAIwCwAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T18:31:56.682Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "StoreApp\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "StoreApp\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-18T18:16:13.667Z"
             }
           ]
         }
