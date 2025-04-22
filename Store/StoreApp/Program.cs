@@ -11,6 +11,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews();//bu bir serves sağlayıcısıdır boş bir ASP.NET Core projesi açtığımız için mvc desteğı aktif et diyoruz tanımı
 
+builder.Services.AddRazorPages();
+
 builder.Services.AddDbContext<RepositoryContext>(options =>
 {
   options.UseSqlite(builder.Configuration.GetConnectionString("sqlconnection"), b => b.MigrationsAssembly("StoreApp"));
@@ -36,7 +38,7 @@ app.UseHttpsRedirection();//https ekleriz
 
 app.UseRouting();//yönlendirme işlemi yapar
 
-app.UseStaticFiles();//resim yapmak için(işe yaramadı)
+//app.UseStaticFiles();//resim yapmak için(işe yaramadı)
 
 
 app.UseEndpoints(endpoints =>
@@ -47,10 +49,10 @@ app.UseEndpoints(endpoints =>
     areaName:"Admin",
     pattern:"Admin/{controller=Dashboard}/{action=Index}/{id?}"
   );
-  endpoints.MapControllerRoute(
-    name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}"
-  );
+
+  endpoints.MapControllerRoute("default","{controller=Home}/{action=Index}/{id?}");
+
+    endpoints.MapRazorPages();
 });
 
 app.Run();

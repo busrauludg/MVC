@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yuKqWhXPjgL0O4fjuvpkealyW+xRRK3iQ9T3AUhsQig=",
+  "Hash": "6D54WsbmYzFBc+eUke4TRJMdM0ggUvt5lOFpMS9gcjY=",
   "Source": "StoreApp",
   "BasePath": "_content/StoreApp",
   "Mode": "Default",
@@ -205,6 +205,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\8.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Büşra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\wwwroot\\images\\pc.jpg",
+      "SourceId": "StoreApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Büşra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\wwwroot\\",
+      "BasePath": "_content/StoreApp",
+      "RelativePath": "images/pc.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\pc.jpg"
     },
     {
       "Identity": "C:\\Users\\Büşra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\wwwroot\\js\\site.js",

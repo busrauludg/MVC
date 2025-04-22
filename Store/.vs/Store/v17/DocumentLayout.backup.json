@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{89BEA955-F382-418E-B097-FC2932BA2813}|StoreApp\\StoreApp.csproj|c:\\users\\b\u00FC\u015Fra\\documents\\github\\mvc\\store\\storeapp\\views\\product\\get.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{89BEA955-F382-418E-B097-FC2932BA2813}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\views\\product\\get.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{89BEA955-F382-418E-B097-FC2932BA2813}|StoreApp\\StoreApp.csproj|c:\\users\\b\u00FC\u015Fra\\documents\\github\\mvc\\store\\storeapp\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89BEA955-F382-418E-B097-FC2932BA2813}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BEA955-F382-418E-B097-FC2932BA2813}|StoreApp\\StoreApp.csproj|c:\\users\\b\u00FC\u015Fra\\documents\\github\\mvc\\store\\storeapp\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89BEA955-F382-418E-B097-FC2932BA2813}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BEA955-F382-418E-B097-FC2932BA2813}|StoreApp\\StoreApp.csproj|c:\\users\\b\u00FC\u015Fra\\documents\\github\\mvc\\store\\storeapp\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89BEA955-F382-418E-B097-FC2932BA2813}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BEA955-F382-418E-B097-FC2932BA2813}|StoreApp\\StoreApp.csproj|c:\\users\\b\u00FC\u015Fra\\documents\\github\\mvc\\store\\storeapp\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89BEA955-F382-418E-B097-FC2932BA2813}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89BEA955-F382-418E-B097-FC2932BA2813}|StoreApp\\StoreApp.csproj|c:\\users\\b\u00FC\u015Fra\\documents\\github\\mvc\\store\\storeapp\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{89BEA955-F382-418E-B097-FC2932BA2813}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +35,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Get.cshtml",
-              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\Views\\Product\\Get.cshtml",
-              "RelativeDocumentMoniker": "StoreApp\\Views\\Product\\Get.cshtml",
-              "ToolTip": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\Views\\Product\\Get.cshtml",
-              "RelativeToolTip": "StoreApp\\Views\\Product\\Get.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABAAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "StoreApp\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "StoreApp\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-21T10:35:10.777Z",
+              "WhenOpened": "2025-04-22T08:55:01.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "StoreApp\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "StoreApp\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T08:54:58.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "StoreApp\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "StoreApp\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T08:54:55.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "StoreApp\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "StoreApp\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T08:46:18.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\Pages\\Contact.cshtml",
+              "RelativeDocumentMoniker": "StoreApp\\Pages\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\Pages\\Contact.cshtml",
+              "RelativeToolTip": "StoreApp\\Pages\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-22T08:44:54.964Z",
               "EditorCaption": ""
             }
           ]

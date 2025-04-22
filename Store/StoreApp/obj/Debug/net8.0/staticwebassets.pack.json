@@ -41,6 +41,10 @@
       "PackagePath": "staticwebassets\\images\\8.jpg"
     },
     {
+      "Id": "C:\\Users\\Büşra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\wwwroot\\images\\pc.jpg",
+      "PackagePath": "staticwebassets\\images\\pc.jpg"
+    },
+    {
       "Id": "C:\\Users\\Büşra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
