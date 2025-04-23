@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{89BEA955-F382-418E-B097-FC2932BA2813}|StoreApp\\StoreApp.csproj|c:\\users\\b\u00FC\u015Fra\\documents\\github\\mvc\\store\\storeapp\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{89BEA955-F382-418E-B097-FC2932BA2813}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{89BEA955-F382-418E-B097-FC2932BA2813}|StoreApp\\StoreApp.csproj|c:\\users\\b\u00FC\u015Fra\\documents\\github\\mvc\\store\\storeapp\\pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{89BEA955-F382-418E-B097-FC2932BA2813}|StoreApp\\StoreApp.csproj|solutionrelative:storeapp\\pages\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -22,45 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Navbar.cshtml",
-              "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\Views\\Shared\\_Navbar.cshtml",
-              "RelativeDocumentMoniker": "StoreApp\\Views\\Shared\\_Navbar.cshtml",
-              "ToolTip": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\Views\\Shared\\_Navbar.cshtml",
-              "RelativeToolTip": "StoreApp\\Views\\Shared\\_Navbar.cshtml",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAACMAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-22T10:25:10.97Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Cart.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\Pages\\Cart.cshtml.cs",
               "RelativeDocumentMoniker": "StoreApp\\Pages\\Cart.cshtml.cs",
               "ToolTip": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\Pages\\Cart.cshtml.cs",
               "RelativeToolTip": "StoreApp\\Pages\\Cart.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T10:20:31.989Z",
+              "WhenOpened": "2025-04-23T09:41:23.589Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Cart.cshtml",
               "DocumentMoniker": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\Pages\\Cart.cshtml",
               "RelativeDocumentMoniker": "StoreApp\\Pages\\Cart.cshtml",
               "ToolTip": "C:\\Users\\B\u00FC\u015Fra\\Documents\\GitHub\\MVC\\Store\\StoreApp\\Pages\\Cart.cshtml",
               "RelativeToolTip": "StoreApp\\Pages\\Cart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAC8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-22T10:10:19.571Z",
+              "WhenOpened": "2025-04-23T08:54:56.141Z",
               "EditorCaption": ""
             }
           ]

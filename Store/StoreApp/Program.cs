@@ -29,6 +29,9 @@ builder.Services.AddScoped<IServiceManager, ServiceManager>();
 
 builder.Services.AddScoped<IProductService, ProductManager>();
 builder.Services.AddScoped<ICategoryServic, CategoryManager>();
+
+builder.Services.AddSingleton<Cart>();
+
 builder.Services.AddAutoMapper(typeof(Program));
 
 var app = builder.Build();
