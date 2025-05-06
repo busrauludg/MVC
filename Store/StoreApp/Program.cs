@@ -18,6 +18,9 @@ builder.Services.AddDbContext<RepositoryContext>(options =>
   options.UseSqlite(builder.Configuration.GetConnectionString("sqlconnection"), b => b.MigrationsAssembly("StoreApp"));
 }); //producter servis sağlayıcı newlenmesini sağladık
 
+builder.Services.AddDistributedMemoryCache();
+builder.Services.AddSession();
+
 builder.Services.AddScoped<IRepositoryManager, RepositoryManger>();
 
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
@@ -36,7 +39,9 @@ builder.Services.AddAutoMapper(typeof(Program));
 
 var app = builder.Build();
 
+
 app.UseStaticFiles();//static dosyalarda kullanılar
+app.UseSession();
 app.UseHttpsRedirection();//https ekleriz
 
 app.UseRouting();//yönlendirme işlemi yapar
