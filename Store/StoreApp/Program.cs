@@ -5,6 +5,7 @@ using Repositories;
 using Repositories.Contracts;
 using Services;
 using Services.Contracts;
+using StoreApp.Models;
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -40,7 +41,9 @@ builder.Services.AddScoped<IProductService, ProductManager>();
 builder.Services.AddScoped<ICategoryServic, CategoryManager>();
 
 //builder.Services.AddSingleton<Cart>();
-builder.Services.AddScoped<Cart>();//bunu tarayıcı yüzünden yaptık
+builder.Services.AddScoped<Cart>(c=>SessionCart.GetCart(c));//bunu tarayıcı yüzünden yaptık. burda bir cart oluşturduk
+//sesiondan gelicek ama işlettigim getcart dahilinde bana bir lojik ver demiş olduk
+//bu yaptığımız şeyin gecerli olması icin modelde cart modelde bu ifadeyi servis üzerinden cözdürmemiz lazım 
 
 builder.Services.AddAutoMapper(typeof(Program));
 
